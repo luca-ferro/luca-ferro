@@ -1,5 +1,6 @@
-### Hi there 👋
+### Salve! Bem-vindo ao cafofo do Luca. 👋
 
+<iframe src="https://giphy.com/embed/RG3ld1CPfD8AvaOmfa" width="480" height="388" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/detectivepikachumovie-cute-pokemon-movie-pika-RG3ld1CPfD8AvaOmfa">via GIPHY</a></p>
 <!--
 **luca-ferro/luca-ferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
