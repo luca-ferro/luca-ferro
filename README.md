@@ -1,6 +1,6 @@
 ### Salve! Bem-vindo ao cafofo do Luca. 👋
 
-<img src="https://c.tenor.com/ECDOKKbP82AAAAAi/sonic-hi.gif" alt="sonic_saying_hi" title="E aí irmão" width="389" height="423" /> 
+<img src="https://c.tenor.com/ECDOKKbP82AAAAAi/sonic-hi.gif" alt="sonic_saying_hi" title="E aí irmão" width="195" height="212" /> 
 
 <!--
 **luca-ferro/luca-ferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
