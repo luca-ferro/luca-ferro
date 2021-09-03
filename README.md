@@ -1,6 +1,6 @@
 ### Salve! Bem-vindo ao cafofo do Luca. 👋
 
-<img src="https://media0.giphy.com/media/RG3ld1CPfD8AvaOmfa/giphy.gif?cid=790b76112588176b2e119ceaa1dbc656b7947fba535fa97f&amp;rid=giphy.gif&amp;ct=s" alt="Pokemon Hello Sticker by POKÉMON Detective Pikachu" style="width: 500px; height: 404px; left: 0px; top: 0px;">
+<img src="https://media0.giphy.com/media/RG3ld1CPfD8AvaOmfa/giphy.gif?cid=790b76112588176b2e119ceaa1dbc656b7947fba535fa97f&amp;rid=giphy.gif&amp;ct=s" alt="Pokemon Hello Sticker by POKÉMON Detective Pikachu" style="width: 250px; height: 202px; left: 0px; top: 0px;">
 
 <!--
 **luca-ferro/luca-ferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
