@@ -14,6 +14,7 @@
 
 ##
 
+<p align="left";><b>Links das minhas redes sociais:<b></p> <img align="left" src="https://i.pinimg.com/originals/0a/93/f1/0a93f1860c438efd1ad61863d5d6d312.gif" width="100" height="100" /></a>
 <div style="display: inline_block"><br>
   <a href="https://twitter.com/LucaFerro10"><img align="right" src="https://cdn.icon-icons.com/icons2/729/PNG/512/twitter_icon-icons.com_62751.png" alt="@LucaFerro10 on Twitter" title="@LucaFerro10" width="50" height="50" /></a>
   <a href="https://www.instagram.com/luca.ferro/"><img align="right" src="https://i0.wp.com/trucao.com.br/wp-content/uploads/2018/07/instagram-logo.png?fit=1200%2C1200&ssl=1" alt="@luca.ferro on Instagram" title="@luca.ferro" width="50" height="50" /></a>
