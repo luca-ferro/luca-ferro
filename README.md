@@ -5,7 +5,7 @@
 
 <div style="display: inline_block"><br>
   <img align="right" src="https://c.tenor.com/ECDOKKbP82AAAAAi/sonic-hi.gif" alt="sonic_saying_hi" title="E aí irmão" width="195" height="212" />
-  <p align="left">-📚 7º Período de Ciência da Computação</p>
+  <p align="left">-📚 8º Período de Ciência da Computação</p>
   <p align="left">-🌎 UNIFAL-MG</p>
   <p align="left">-💻 Desenvolvedor Front-End</p>
   <p align="left">-📲 HTML, CSS, JS, React.js</p>
